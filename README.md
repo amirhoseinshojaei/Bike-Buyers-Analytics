@@ -47,9 +47,9 @@ This project involves cleaning and analyzing a dataset related to bike buyers to
 ## Screenshots:
    Below is the screenshot of the **Dynamic Dashboard** created in the project:
 
-   ![Dashboard Screenshot](path_to_your_screenshot_image.png)
-   ![Dashboard Screenshot](path_to_your_screenshot_image.png)
-   ![Dashboard Screenshot](path_to_your_screenshot_image.png)
+   ![Dashboard Screenshot](https://github.com/amirhoseinshojaei/Bike-Buyers-Analytics/blob/main/Screenshot%202025-02-06%20020256.png)
+   ![Dashboard Screenshot](https://github.com/amirhoseinshojaei/Bike-Buyers-Analytics/blob/main/Screenshot%202025-02-06%20020417.png)
+   ![Dashboard Screenshot](https://github.com/amirhoseinshojaei/Bike-Buyers-Analytics/blob/main/Screenshot%202025-02-06%20020430.png)
 
 ## Technologies Used:
    - **Excel** (Pivot Tables, Data Cleaning, Formulas)
